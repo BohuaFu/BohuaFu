@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 You are my favourite hello and hardest goodbye. 
 Meeting you is the happiest thing in life.
 We believe small actions today that could make bigger difference tomorrow.
+先努力優秀，再大方擁有。所謂生活，有所為，有所愛，有所期待。
+
