@@ -16,4 +16,5 @@ You can click the Preview link to take a look at your changes.
 - We believe small actions today that could make bigger difference tomorrow.
 - 先努力優秀，再大方擁有。所謂生活，有所為，有所愛，有所期待。
 - 不謀全局者，不足謀一城。有所想，有所為。
+- 好讀書，不求甚解；每有會意，便欣然忘食。
 
