@@ -23,4 +23,5 @@ You can click the Preview link to take a look at your changes.
 - 好讀書，不求甚解；每有會意，便欣然忘食。
 - 本性決定行為，本性取決於行為。
 - 清空你的杯子，方能再行注滿，空無以求全。
+- 律者，所以定紛止爭也。
 
