@@ -36,3 +36,12 @@ You can click the Preview link to take a look at your changes.
 - where I left my heart at. 心底最深沉的思念大概就是這麼回事. 
 - You are my favorite hello and hardest goodbye. 
 - Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.
+
+- A favorite passage recently.
+- - Take care of yourself, Health and emotion.
+- - This life, you just won more than half.
+- - The rest of the rest life has own arrangements.
+
+
+
+
