@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 - 萬物並育而不相害，道並行而不相悖。
 - 道生一，一生二，二生三，三生萬物。
 - 混沌湧現秩序，光明源自黑暗。
-
+- 此去無意怎留亦，生死未果期自然，所向心往亦如是，愛意未盡猶若你。
 - where I left my heart at. 心底最深沉的思念大概就是這麼回事. 
 - You are my favorite hello and hardest goodbye. 
 - Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.
