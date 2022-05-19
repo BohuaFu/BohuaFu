@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
 - - This life, you just won more than half.
 - - The rest of the rest life has own arrangements.
 
-
+- 莫文蔚的陰天，孫燕姿的雨天，周杰倫的晴天，不如和我聊聊天~~~
 
 
