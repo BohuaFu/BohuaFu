@@ -43,5 +43,10 @@ You can click the Preview link to take a look at your changes.
 - - The rest of the rest life has own arrangements.
 
 - 莫文蔚的陰天，孫燕姿的雨天，周杰倫的晴天，不如和我聊聊天~~~
+- May.21 #小滿 Grain Buds.
+- - 將滿未滿，人生可追，
+- - 半熟未熟，歲月可待，
+- - 萬物見長，吉迎盛夏，
+- - 終身學習，持續成長。
 
 
