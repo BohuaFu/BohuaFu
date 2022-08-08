@@ -50,3 +50,4 @@ You can click the Preview link to take a look at your changes.
 - - 終身學習，持續成長。
 
 
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
