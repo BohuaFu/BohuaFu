@@ -49,5 +49,28 @@ You can click the Preview link to take a look at your changes.
 - - 萬物見長，吉迎盛夏，
 - - 終身學習，持續成長。
 
+I love you.
+I'll be waiting for you.
+I'm crazy about you.
+You had me at hello.
+I think about you all the time.
+You Complete me.
+No one but you.
+You're one in a million!
+
+Life is like a camera.
+Just focus on what's important,
+capture the good times,
+develop from the negatives,
+and if things don't work out,
+just take another shot.
+
+You are good enouth.
+You can do whatever you want.
+Try harder.
+You only live once, right?
+Take your time.
+
+
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
